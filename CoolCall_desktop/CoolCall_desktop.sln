@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "call", "call\call.vcxproj", "{56DE630A-1FE6-4EF1-B665-1E12239B002D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56DE630A-1FE6-4EF1-B665-1E12239B002D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56DE630A-1FE6-4EF1-B665-1E12239B002D}.Debug|Win32.Build.0 = Debug|Win32
+		{56DE630A-1FE6-4EF1-B665-1E12239B002D}.Release|Win32.ActiveCfg = Release|Win32
+		{56DE630A-1FE6-4EF1-B665-1E12239B002D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
