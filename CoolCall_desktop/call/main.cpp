@@ -6,7 +6,7 @@ using namespace std;
 
 int main(){
 	int PhoneNum[11];
-	Mat image = imread("D://digit.jpg");
+	Mat image = imread("digit.jpg");
 	int label = digitRecognize(image, PhoneNum);
 	cout << label <<endl ;
 	for(int i=0;i<11;i++)
